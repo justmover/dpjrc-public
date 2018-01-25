@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jockeyclubyrs.dreamspossible.hk/story/</loc>
-  </url>
-  
-  <url>
     <loc>http://jockeyclubyrs.dreamspossible.hk/story/%E8%8B%A6%E9%9B%A3%E4%B8%AD%E5%A0%85%E6%8C%81%E6%84%9B/</loc>
   </url>
   
@@ -16,17 +12,17 @@
   </url>
   
   <url>
-    <loc>http://jockeyclubyrs.dreamspossible.hk/intro/intro/</loc>
-    <lastmod>2018-01-22T14:31:51+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jockeyclubyrs.dreamspossible.hk/thanks/thanks/</loc>
     <lastmod>2018-01-22T14:31:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jockeyclubyrs.dreamspossible.hk/course/course-detail/</loc>
+    <loc>http://jockeyclubyrs.dreamspossible.hk/faq/faq/</loc>
+    <lastmod>2018-01-22T14:31:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jockeyclubyrs.dreamspossible.hk/intro/intro/</loc>
     <lastmod>2018-01-22T14:31:51+08:00</lastmod>
   </url>
   
@@ -36,7 +32,7 @@
   </url>
   
   <url>
-    <loc>http://jockeyclubyrs.dreamspossible.hk/faq/faq/</loc>
+    <loc>http://jockeyclubyrs.dreamspossible.hk/course/course-detail/</loc>
     <lastmod>2018-01-22T14:31:51+08:00</lastmod>
   </url>
   
@@ -85,12 +81,6 @@
   </url>
   
   <url>
-    <loc>http://jockeyclubyrs.dreamspossible.hk/</loc>
-    <lastmod>2018-01-22T14:31:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://jockeyclubyrs.dreamspossible.hk/tags/</loc>
     <priority>0</priority>
   </url>
@@ -120,6 +110,16 @@
   
   <url>
     <loc>http://jockeyclubyrs.dreamspossible.hk/team/red_chan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jockeyclubyrs.dreamspossible.hk/story/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jockeyclubyrs.dreamspossible.hk/</loc>
+    <lastmod>2018-01-22T14:31:51+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

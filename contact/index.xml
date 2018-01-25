@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contacts on My New Hugo Site</title>
+    <title>Contacts on 賽馬會青年更新教練計劃</title>
     <link>http://jockeyclubyrs.dreamspossible.hk/contact/</link>
-    <description>Recent content in Contacts on My New Hugo Site</description>
+    <description>Recent content in Contacts on 賽馬會青年更新教練計劃</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-tw</language>
     <lastBuildDate>Mon, 22 Jan 2018 14:31:51 +0800</lastBuildDate>
     
 	<atom:link href="http://jockeyclubyrs.dreamspossible.hk/contact/index.xml" rel="self" type="application/rss+xml" />

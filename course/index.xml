@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses on My New Hugo Site</title>
+    <title>Courses on 賽馬會青年更新教練計劃</title>
     <link>http://jockeyclubyrs.dreamspossible.hk/course/</link>
-    <description>Recent content in Courses on My New Hugo Site</description>
+    <description>Recent content in Courses on 賽馬會青年更新教練計劃</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-tw</language>
     <lastBuildDate>Mon, 22 Jan 2018 14:31:51 +0800</lastBuildDate>
     
 	<atom:link href="http://jockeyclubyrs.dreamspossible.hk/course/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>course-detail</title>
-      <link>http://jockeyclubyrs.dreamspossible.hk/course/course-detail/</link>
-      <pubDate>Mon, 22 Jan 2018 14:31:51 +0800</pubDate>
-      
-      <guid>http://jockeyclubyrs.dreamspossible.hk/course/course-detail/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>course-intro</title>
+      <title>課程介紹</title>
       <link>http://jockeyclubyrs.dreamspossible.hk/course/course-intro/</link>
       <pubDate>Mon, 22 Jan 2018 14:31:51 +0800</pubDate>
       
@@ -36,6 +27,15 @@
 共16堂 (4月5日清明節暫停一次)
 上課地點 查看 自在社(灣仔皇后大道東43號東美中心 2107室)
 由於名額有限,參加者需經甄選,同時需要承諾全程積極投入上課,而且出席率達到90%。 </description>
+    </item>
+    
+    <item>
+      <title>課程詳情</title>
+      <link>http://jockeyclubyrs.dreamspossible.hk/course/course-detail/</link>
+      <pubDate>Mon, 22 Jan 2018 14:31:51 +0800</pubDate>
+      
+      <guid>http://jockeyclubyrs.dreamspossible.hk/course/course-detail/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on 賽馬會青年更新教練計劃</title>
     <link>http://jockeyclubyrs.dreamspossible.hk/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on 賽馬會青年更新教練計劃</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-tw</language>
     
 	<atom:link href="http://jockeyclubyrs.dreamspossible.hk/tags/index.xml" rel="self" type="application/rss+xml" />
     

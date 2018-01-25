@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Faqs on My New Hugo Site</title>
+    <title>Faqs on 賽馬會青年更新教練計劃</title>
     <link>http://jockeyclubyrs.dreamspossible.hk/faq/</link>
-    <description>Recent content in Faqs on My New Hugo Site</description>
+    <description>Recent content in Faqs on 賽馬會青年更新教練計劃</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-tw</language>
     <lastBuildDate>Mon, 22 Jan 2018 14:31:51 +0800</lastBuildDate>
     
 	<atom:link href="http://jockeyclubyrs.dreamspossible.hk/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>faq</title>
+      <title>常見問題</title>
       <link>http://jockeyclubyrs.dreamspossible.hk/faq/faq/</link>
       <pubDate>Mon, 22 Jan 2018 14:31:51 +0800</pubDate>
       

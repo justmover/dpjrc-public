@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>賽馬會青年更新教練計劃</title>
     <link>http://jockeyclubyrs.dreamspossible.hk/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 賽馬會青年更新教練計劃</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-tw</language>
     <lastBuildDate>Mon, 22 Jan 2018 14:31:51 +0800</lastBuildDate>
     
 	<atom:link href="http://jockeyclubyrs.dreamspossible.hk/index.xml" rel="self" type="application/rss+xml" />
@@ -43,15 +43,6 @@
     </item>
     
     <item>
-      <title>Intro</title>
-      <link>http://jockeyclubyrs.dreamspossible.hk/intro/intro/</link>
-      <pubDate>Mon, 22 Jan 2018 14:31:51 +0800</pubDate>
-      
-      <guid>http://jockeyclubyrs.dreamspossible.hk/intro/intro/</guid>
-      <description>自在社是一個以貢獻社會為本的生命工作者培訓課程,持續關懷主流社會忽略的不同弱勢社群人士。</description>
-    </item>
-    
-    <item>
       <title>Thanks</title>
       <link>http://jockeyclubyrs.dreamspossible.hk/thanks/thanks/</link>
       <pubDate>Mon, 22 Jan 2018 14:31:51 +0800</pubDate>
@@ -61,16 +52,25 @@
     </item>
     
     <item>
-      <title>course-detail</title>
-      <link>http://jockeyclubyrs.dreamspossible.hk/course/course-detail/</link>
+      <title>常見問題</title>
+      <link>http://jockeyclubyrs.dreamspossible.hk/faq/faq/</link>
       <pubDate>Mon, 22 Jan 2018 14:31:51 +0800</pubDate>
       
-      <guid>http://jockeyclubyrs.dreamspossible.hk/course/course-detail/</guid>
-      <description></description>
+      <guid>http://jockeyclubyrs.dreamspossible.hk/faq/faq/</guid>
+      <description>Faq</description>
     </item>
     
     <item>
-      <title>course-intro</title>
+      <title>緣起</title>
+      <link>http://jockeyclubyrs.dreamspossible.hk/intro/intro/</link>
+      <pubDate>Mon, 22 Jan 2018 14:31:51 +0800</pubDate>
+      
+      <guid>http://jockeyclubyrs.dreamspossible.hk/intro/intro/</guid>
+      <description>自在社是一個以貢獻社會為本的生命工作者培訓課程,持續關懷主流社會忽略的不同弱勢社群人士。</description>
+    </item>
+    
+    <item>
+      <title>課程介紹</title>
       <link>http://jockeyclubyrs.dreamspossible.hk/course/course-intro/</link>
       <pubDate>Mon, 22 Jan 2018 14:31:51 +0800</pubDate>
       
@@ -88,16 +88,16 @@
     </item>
     
     <item>
-      <title>faq</title>
-      <link>http://jockeyclubyrs.dreamspossible.hk/faq/faq/</link>
+      <title>課程詳情</title>
+      <link>http://jockeyclubyrs.dreamspossible.hk/course/course-detail/</link>
       <pubDate>Mon, 22 Jan 2018 14:31:51 +0800</pubDate>
       
-      <guid>http://jockeyclubyrs.dreamspossible.hk/faq/faq/</guid>
-      <description>Faq</description>
+      <guid>http://jockeyclubyrs.dreamspossible.hk/course/course-detail/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Home</title>
+      <title>主頁</title>
       <link>http://jockeyclubyrs.dreamspossible.hk/home/home/</link>
       <pubDate>Mon, 22 Jan 2018 13:43:46 +0800</pubDate>
       
