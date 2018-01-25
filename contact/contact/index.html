@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="/css/global.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/default.min.css"> 
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ"
         crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
@@ -238,7 +239,7 @@
 
 </script>
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 
 <script>
     $(document).ready(function () {
@@ -304,28 +305,12 @@
 
 </script>
 
+
 <script>
-        var active = '';
-        $(document).ready(function () {
+
+
     
-            active = $('.start-up-active')[0].id;
-            console.log(active);
-            $('#' + active + '_content').addClass('story-container-show');
-            active = active ;
-            $('.story-video').on('click', function (e) {
-                if (active != "") {
-                    $('#' + e.currentTarget.id + '_content').addClass('story-container-show');
-                    $('#' + active+ '_content').toggleClass('story-container-show');
-                }
-                console.log("event: " + e.currentTarget.id);
-                $('#' + e.currentTarget.id + '_content').toggleClass('story-container-show');
-                $('#' + active+ '_content').toggleClass('story-container-show');
-                console.log("now id:" + active)
-                active = e.currentTarget.id;
-    
-            })
-        });
-    
-    </script>
+</script>
+
     </body>
 </html>

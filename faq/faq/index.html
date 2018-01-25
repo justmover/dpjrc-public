@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="/css/global.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/default.min.css"> 
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ"
         crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
@@ -181,7 +182,7 @@
             
             <li id="faq0" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>1﹑課程的目的是什麼？</font>
                     </div>
@@ -197,7 +198,7 @@
             
             <li id="faq1" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>2﹑上課是用什麼形式？</font>
                     </div>
@@ -213,7 +214,7 @@
             
             <li id="faq2" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>3﹑課程有什麼內容？</font>
                     </div>
@@ -229,7 +230,7 @@
             
             <li id="faq3" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>4﹑主辦機構有沒有宗教、政治和商業背景？</font>
                     </div>
@@ -245,7 +246,7 @@
             
             <li id="faq4" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>5﹑課程有沒有年齡限制？</font>
                     </div>
@@ -261,7 +262,7 @@
             
             <li id="faq5" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>6﹑參加者有什麼要求？</font>
                     </div>
@@ -277,7 +278,7 @@
             
             <li id="faq6" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>7﹑參加者是否需要公開自己的個人身份？</font>
                     </div>
@@ -293,7 +294,7 @@
             
             <li id="faq7" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>8﹑畢業學員是否會有畢業證書？</font>
                     </div>
@@ -309,7 +310,7 @@
             
             <li id="faq8" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>9﹑課程需要多少學費？</font>
                     </div>
@@ -325,7 +326,7 @@
             
             <li id="faq9" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>10﹑精神病人是否適合參加？</font>
                     </div>
@@ -341,7 +342,7 @@
             
             <li id="faq10" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>11﹑自己直接報名，還是需要機構推薦？</font>
                     </div>
@@ -357,7 +358,7 @@
             
             <li id="faq11" class="q">
 
-                <div class="columns">
+                <div class="columns is-mobile">
                     <div class="column is-11">
                         <font>12﹑如果已經成功戒毒多年，仍然可以參加嗎？</font>
                     </div>
@@ -399,7 +400,7 @@
 
 </script>
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 
 <script>
     $(document).ready(function () {
@@ -465,28 +466,12 @@
 
 </script>
 
+
 <script>
-        var active = '';
-        $(document).ready(function () {
+
+
     
-            active = $('.start-up-active')[0].id;
-            console.log(active);
-            $('#' + active + '_content').addClass('story-container-show');
-            active = active ;
-            $('.story-video').on('click', function (e) {
-                if (active != "") {
-                    $('#' + e.currentTarget.id + '_content').addClass('story-container-show');
-                    $('#' + active+ '_content').toggleClass('story-container-show');
-                }
-                console.log("event: " + e.currentTarget.id);
-                $('#' + e.currentTarget.id + '_content').toggleClass('story-container-show');
-                $('#' + active+ '_content').toggleClass('story-container-show');
-                console.log("now id:" + active)
-                active = e.currentTarget.id;
-    
-            })
-        });
-    
-    </script>
+</script>
+
     </body>
 </html>
