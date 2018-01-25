@@ -106,6 +106,70 @@
     <div class="mobile-nav-hamburger-btn">
         <img src="/img/hamburger.svg" />
     </div>
+    <div class="desktop-showMenu" style="display: none;">
+			 
+<div class="menu desktop-menu">
+      
+        <div class="menu-item" id="menu-intro">
+            <a href="/intro/intro">
+            <img width="30" src="/img/menu_intro_btn.svg">
+            緣起
+            </a>
+        </div>
+      
+        <div class="menu-item" id="menu-course">
+            <a href="/course">
+            <img width="30" src="/img/menu_course_btn.svg">
+            課程介紹
+            </a>
+        </div>
+      
+        <div class="menu-item" id="menu-qa">
+            <a href="/faq/faq">
+            <img width="30" src="/img/menu_qa_btn.svg">
+            常見問題
+            </a>
+        </div>
+      
+        <div class="menu-item" id="menu-story">
+            <a href="/story">
+            <img width="30" src="/img/menu_story_btn.svg">
+            生命故事
+            </a>
+        </div>
+      
+        <div class="menu-item" id="menu-team">
+            <a href="/team/team">
+            <img width="30" src="/img/menu_team_btn.svg">
+            導師及總教練團隊
+            </a>
+        </div>
+      
+        <div class="menu-item" id="menu-organization">
+            <a href="/thanks/thanks">
+            <img width="30" src="/img/menu_organization_btn.svg">
+            感謝機構及導師
+            </a>
+        </div>
+      
+        <div class="menu-item" id="menu-contactus">
+            <a href="/contact/contact">
+            <img width="30" src="/img/menu_contactus_btn.svg">
+            聯絡我們
+            </a>
+        </div>
+      
+        <div class="menu-item" id="menu-dp">
+            <a href="http://www.dreamspossible.hk">
+            <img width="30" src="/img/menu_dp_btn.svg">
+            自在社
+            </a>
+        </div>
+    
+
+</div>
+
+	</div>
 </div>
             <main  class="content" role="main">
                 
@@ -348,19 +412,23 @@
 
 <script>
     $(document).ready(function () {
+        
         $(".desktop-showMenu").hide();
         $(".desktop-nav-hamburger-btn").click(function () {
             $(".desktop-showMenu").slideToggle('fast');
         });
-    });
 
-</script>
+        
+        $(".mobile-showMenu").hide();
+        $(".mobile-nav-hamburger-btn").click(function () {
+            $(".desktop-showMenu").slideToggle('fast');
+        });
 
-<script>
-    $(document).ready(function () {
+        
         $(".menu-item").mouseover(function () {
             $("#" + this.id).addClass('active');
         });
+        
         $(".menu-item").mouseout(function () {
             $("#" + this.id).removeClass('active');
         });
