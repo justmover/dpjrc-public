@@ -64,10 +64,6 @@
   </url>
   
   <url>
-    <loc>http://jockeyclubyrs.dreamspossible.hk/team/team/</loc>
-  </url>
-  
-  <url>
     <loc>http://jockeyclubyrs.dreamspossible.hk/home/</loc>
     <lastmod>2018-01-22T13:43:46+08:00</lastmod>
     <priority>0</priority>
@@ -109,6 +105,10 @@
   
   <url>
     <loc>http://jockeyclubyrs.dreamspossible.hk/team/red_chan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jockeyclubyrs.dreamspossible.hk/team/team/</loc>
   </url>
   
   <url>
