@@ -27,6 +27,11 @@
   </url>
   
   <url>
+    <loc>http://jockeyclubyrs.dreamspossible.hk/course/</loc>
+    <lastmod>2018-01-22T14:31:51+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jockeyclubyrs.dreamspossible.hk/course/course-intro/</loc>
     <lastmod>2018-01-22T14:31:51+08:00</lastmod>
   </url>
@@ -48,12 +53,6 @@
   
   <url>
     <loc>http://jockeyclubyrs.dreamspossible.hk/contact/</loc>
-    <lastmod>2018-01-22T14:31:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jockeyclubyrs.dreamspossible.hk/course/</loc>
     <lastmod>2018-01-22T14:31:51+08:00</lastmod>
     <priority>0</priority>
   </url>
